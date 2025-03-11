@@ -8,4 +8,7 @@
 سازگاری کامل با موبایل و دسکتاپ
 استفاده از تکنولوژی‌های روز وب
 امکان افزودن محتوای بیشتر به راحتی
-img/banner_CenterTripletBanners_1g364x_da51b3ad-ef38-4163-bbd8-b4bb7999508e.webp
+
+
+
+![پیش‌نمایش وبسایت](img/banner_CenterTripletBanners_1g364x_da51b3ad-ef38-4163-bbd8-b4bb7999508e.webp)
